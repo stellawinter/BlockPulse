@@ -1,4 +1,3 @@
-
 # BlockPulse: Predictive analytics accelerates on-demand graph-visualization with intelligent, distributed, and scalable BlockPulse Nexus Platform System Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
 
